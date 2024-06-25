@@ -1,0 +1,124 @@
+.add-container{
+    /* background-image: url("openbook.jpg"); */
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+    background-color: aqua;
+}
+
+.add-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10vh;
+}
+
+.add-form-title{
+    font-size: 8vh;
+    font-weight: 600;
+    font-family: cursive;
+}
+
+input{
+    /* background-color: black; */
+    width: 5vh;
+    height: 4vh;
+    border: 1px solid black;
+    box-shadow: 0 0 8px black;
+    font-family: cursive;
+}
+
+.delete-btn{
+    width: 10vh;
+    height: 10vh;
+}
+
+.book-img{
+    width: 20vh;
+    height: 30vh;
+}
+
+.library{
+
+    display: flex;
+    flex-direction: column;
+    background-color: lightblue;
+    height: 100vh;
+    align-items: center;
+}
+
+.welcome{
+    font-size: 8vh;
+    color: black;
+    font-weight: 700;
+    justify-content: center;
+    align-items: center;
+}
+
+.lib-links{
+    margin-top: 15vh;
+    display: flex;
+    flex-direction:column;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 10vh;
+
+}
+
+.linkbtn{
+    /* margin-top: 20vh; */
+    text-decoration: none;
+    width: 20vw;
+    height: 10vh;
+    background-color:   rgb(252, 255, 192);
+    text-align: center;
+    text-justify: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10vh;
+    
+}
+
+.linktxt{
+    justify-content: center;
+    text-decoration: none;
+    color: blue;
+    font-size: 5vh;
+    font-weight: 600;
+
+}
+
+.first-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* align-items: center; */
+    gap: 10vw;
+    width: 100%;
+}
+
+.second-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* align-items: center; */
+    gap: 10vw;
+    width: 100%;
+}
+
+.third-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* align-items: center; */
+    gap: 10vw;
+    width: 100%;
+}
+
+.add-btn{
+    width: 20vw;
+    height: 10vh;
+    background-color: blue;
+    border-radius: 10vh;
+}

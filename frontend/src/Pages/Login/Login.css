@@ -1,0 +1,65 @@
+.login-container{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    background-image: url("books.jpg");
+    width: 100%;
+    height: 100vh;
+    background-repeat: repeat;
+    gap: 5vh;
+}
+
+.img{
+    width: 100%;
+    height: 100vh;
+}
+
+.login{
+    margin-top: 20vh;
+    font-size: 10vh;
+    color: black;
+    font-weight: 600;
+}
+
+.details{
+    
+    /* background-repeat: repeat; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    /* gap: 10vh;  */
+    width: 40vh;
+    height: 50vh;
+    color: black;
+     border: 4px solid black;
+}
+
+.password{
+    height: 3vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* margin-left:3vw ; */
+    font-size:4vh ;
+    font-weight: 600;
+}
+
+.input{
+    height: 10vh;
+    width: 15vw;
+    background-color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+
+}
+
+.btn{
+    width: 6vw;
+    height: 6vh;
+    background-color: blue;
+    border-radius: 2vh;
+}
