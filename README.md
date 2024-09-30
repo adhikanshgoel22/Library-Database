@@ -7,6 +7,9 @@
 3) With secure login credentials for administrators, we ensure data privacy and protection for all.
 
 #Development
+git clone https://github.com/adhikanshgoel22/Library-Database
+npm i
+
 
 
 https://github.com/user-attachments/assets/64cd6c29-fe0f-485e-ad1f-b696c1a7f714
