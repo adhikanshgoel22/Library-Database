@@ -7,7 +7,7 @@
 3) With secure login credentials for administrators, we ensure data privacy and protection for all.
 
 #Development
-```git clone https://github.com/adhikanshgoel22/Library-Database
+git clone https://github.com/adhikanshgoel22/Library-Database
 npm i```
 
 
