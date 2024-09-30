@@ -11,6 +11,16 @@
 git clone https://github.com/adhikanshgoel22/Library-Database
 npm i
 ```
+For frontend
+```
+cd frontend
+npm start
+```
+For backend
+```
+cd backend
+npm start
+```
 
 
 
