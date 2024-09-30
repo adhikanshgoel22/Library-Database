@@ -6,7 +6,7 @@
 2) It allows library administrators to add, update, or remove books effortlessly, ensuring the database is always up to date.
 3) With secure login credentials for administrators, we ensure data privacy and protection for all.
 
-#Development
+# Development
 ```
 git clone https://github.com/adhikanshgoel22/Library-Database
 npm i
