@@ -2,9 +2,9 @@
  Welcome to the Lbrary Database Manager. It is a database which helps to manage the data of large collection of books available in a library.
 
 # Key Features
-Users can search for their favourite book by using the title of the book, author, publisher, genre or even the ISBN number.
-It allows library administrators to add, update, or remove books effortlessly, ensuring the database is always up to date.
-With secure login credentials for administrators, we ensure data privacy and protection for all.
+1) Users can search for their favourite book by using the title of the book, author, publisher, genre or even the ISBN number.
+2) It allows library administrators to add, update, or remove books effortlessly, ensuring the database is always up to date.
+3) With secure login credentials for administrators, we ensure data privacy and protection for all.
 
 
 https://github.com/user-attachments/assets/64cd6c29-fe0f-485e-ad1f-b696c1a7f714
